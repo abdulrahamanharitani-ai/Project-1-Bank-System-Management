@@ -42,6 +42,34 @@ Project-1-Bank-System-Management/
 
 ---
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](1.png)
+
+### Client List
+![Client List](2.png)
+
+### Add New Client
+![Add New Client](3.png)
+
+### Delete Client
+![Delete Client](4.png)
+
+### Update Client
+![Update Client](5.png)
+
+### Find Client (Not Found)
+![Find Client Not Found](6.png)
+
+### Find Client (Found)
+![Find Client Found](7.png)
+
+### End Program
+![End Program](8.png)
+
+---
+
 ## 👤 Author
 
 **Abdulrahman Al-Haritani**  
