@@ -39,7 +39,7 @@ Project-1-Bank-System-Management/
 ├── .gitattributes
 ├── .gitignore
 └── README.md # This file
-
+```
 ---
 
 ## 📸 Screenshots
@@ -81,3 +81,12 @@ Project-1-Bank-System-Management/
 
 This project is for **educational purposes** only.  
 You are free to use, modify, and distribute it for learning.
+
+---
+
+## Related Projects
+
+This project is part of a series:
+- **Project 1 - Bank System Management** — Clients List only ← *You are here*
+- [Project 2 - Bank System Management](https://github.com/abdulrahamanharitani-ai/Project-2-Bank-System-Management) — Clients + Transactions
+- [Project 3 - Bank System Management](https://github.com/abdulrahamanharitani-ai/Project-3-Bank-System-Management) — Full System with Login & Permissions
